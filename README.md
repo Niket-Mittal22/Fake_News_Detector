@@ -25,7 +25,8 @@ The dataset used is a labeled collection of real and fake news articles separate
 - `date`
 - `subject`
 
-You can download the dataset from the repository itself
+You can download the dataset from:
+https://www.kaggle.com/datasets/emineyetm/fake-news-detection-datasets
 ---
 
 ## 🛠️ Features
